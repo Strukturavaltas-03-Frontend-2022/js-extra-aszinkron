@@ -33,11 +33,11 @@ Nem szabad callback hell-nek lennie!
 Logold ki konzolra táblázatos formában (egy console-metódus lesz ez is, nézz utána), mennyi lesz a futási idő az első és a második megoldás esetében, ha a programot egyszer, tízszer, százszor és ezerszer futtatod le. (A későbbiekben még lesz erről szó.)
 
 
-|  Első eset | Második eset  |   
-|---|---|
-|  1 |   | 
-|  10|   |  
-|  100|   | 
-|  1000|   | 
+|    |  Első eset | Második eset  |   
+|---|---|---|   
+|  1 |   |    |    
+|  10|   |     |    
+|  100|   |    |    
+|  1000|   |    |    
 
 
